@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\bin\Debug\netcoreapp2.1\Hexadecimal.deps.json
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\bin\Debug\netcoreapp2.1\Hexadecimal.runtimeconfig.json
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\bin\Debug\netcoreapp2.1\Hexadecimal.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\bin\Debug\netcoreapp2.1\Hexadecimal.dll
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\bin\Debug\netcoreapp2.1\Hexadecimal.pdb
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\obj\Debug\netcoreapp2.1\Hexadecimal.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\obj\Debug\netcoreapp2.1\Hexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\obj\Debug\netcoreapp2.1\Hexadecimal.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\obj\Debug\netcoreapp2.1\Hexadecimal.AssemblyInfo.cs
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\obj\Debug\netcoreapp2.1\Hexadecimal.dll
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\obj\Debug\netcoreapp2.1\Hexadecimal.pdb

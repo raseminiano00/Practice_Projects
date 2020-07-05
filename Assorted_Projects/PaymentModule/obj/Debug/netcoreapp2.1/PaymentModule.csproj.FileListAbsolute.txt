@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\PaymentModule\bin\Debug\netcoreapp2.1\PaymentModule.deps.json
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\PaymentModule\bin\Debug\netcoreapp2.1\PaymentModule.runtimeconfig.json
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\PaymentModule\bin\Debug\netcoreapp2.1\PaymentModule.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\PaymentModule\bin\Debug\netcoreapp2.1\PaymentModule.dll
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\PaymentModule\bin\Debug\netcoreapp2.1\PaymentModule.pdb
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\PaymentModule\obj\Debug\netcoreapp2.1\PaymentModule.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\PaymentModule\obj\Debug\netcoreapp2.1\PaymentModule.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\PaymentModule\obj\Debug\netcoreapp2.1\PaymentModule.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\PaymentModule\obj\Debug\netcoreapp2.1\PaymentModule.AssemblyInfo.cs
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\PaymentModule\obj\Debug\netcoreapp2.1\PaymentModule.dll
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\PaymentModule\obj\Debug\netcoreapp2.1\PaymentModule.pdb

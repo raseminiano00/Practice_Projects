@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\bin\Debug\netcoreapp2.1\NumberSystem.deps.json
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\bin\Debug\netcoreapp2.1\NumberSystem.runtimeconfig.json
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\bin\Debug\netcoreapp2.1\NumberSystem.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\bin\Debug\netcoreapp2.1\NumberSystem.dll
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\bin\Debug\netcoreapp2.1\NumberSystem.pdb
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\obj\Debug\netcoreapp2.1\NumberSystem.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\obj\Debug\netcoreapp2.1\NumberSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\obj\Debug\netcoreapp2.1\NumberSystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\obj\Debug\netcoreapp2.1\NumberSystem.AssemblyInfo.cs
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\obj\Debug\netcoreapp2.1\NumberSystem.dll
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\Hexadecimal\obj\Debug\netcoreapp2.1\NumberSystem.pdb

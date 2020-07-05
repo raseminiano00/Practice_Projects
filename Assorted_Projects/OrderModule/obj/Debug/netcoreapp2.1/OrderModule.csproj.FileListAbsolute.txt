@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\OrderModule\obj\Debug\netcoreapp2.1\OrderModule.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\OrderModule\obj\Debug\netcoreapp2.1\OrderModule.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\OrderModule\obj\Debug\netcoreapp2.1\OrderModule.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\OrderModule\obj\Debug\netcoreapp2.1\OrderModule.AssemblyInfo.cs
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\OrderModule\bin\Debug\netcoreapp2.1\OrderModule.deps.json
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\OrderModule\bin\Debug\netcoreapp2.1\OrderModule.runtimeconfig.json
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\OrderModule\bin\Debug\netcoreapp2.1\OrderModule.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\OrderModule\bin\Debug\netcoreapp2.1\OrderModule.dll
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\OrderModule\bin\Debug\netcoreapp2.1\OrderModule.pdb
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\OrderModule\bin\Debug\netcoreapp2.1\PaymentModule.dll
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\OrderModule\bin\Debug\netcoreapp2.1\PaymentModule.pdb
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\OrderModule\obj\Debug\netcoreapp2.1\OrderModule.csproj.CopyComplete
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\OrderModule\obj\Debug\netcoreapp2.1\OrderModule.dll
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\OrderModule\obj\Debug\netcoreapp2.1\OrderModule.pdb

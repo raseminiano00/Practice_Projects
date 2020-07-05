@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\LongDivision\bin\Debug\netcoreapp2.1\LongDivision.deps.json
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\LongDivision\bin\Debug\netcoreapp2.1\LongDivision.runtimeconfig.json
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\LongDivision\bin\Debug\netcoreapp2.1\LongDivision.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\LongDivision\bin\Debug\netcoreapp2.1\LongDivision.dll
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\LongDivision\bin\Debug\netcoreapp2.1\LongDivision.pdb
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\LongDivision\obj\Debug\netcoreapp2.1\LongDivision.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\LongDivision\obj\Debug\netcoreapp2.1\LongDivision.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\LongDivision\obj\Debug\netcoreapp2.1\LongDivision.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\LongDivision\obj\Debug\netcoreapp2.1\LongDivision.AssemblyInfo.cs
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\LongDivision\obj\Debug\netcoreapp2.1\LongDivision.dll
+C:\Users\Administrator\Documents\PERSONAL\REPOSITORY\NumberSystem\LongDivision\obj\Debug\netcoreapp2.1\LongDivision.pdb
